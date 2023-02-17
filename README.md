@@ -1,7 +1,7 @@
 
 # Job Scraping from LinkedIn
 
-Job Scraping from LinkedIn and saving the data in excel file. 
+Job Scraping from LinkedIn using Selinium and saving the data in an excel file. 
 
 Information scraped & saved:
 
